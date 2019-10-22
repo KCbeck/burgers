@@ -25,4 +25,6 @@ var burger = {
   }
 };
 
+burger.sync();
+
 module.exports = burger;
